@@ -1,0 +1,4 @@
+name,issuer,issuer_orcid,event_name,event_description,certificate_id,certificate_link,date,certificate_date,certificate_location
+Bob Ross,Bob Marlin,0000-0000-0000-0001,A great event,,123123ABC,,2025-01-26,2025-01-30,"Faroe Islands, The Ocean"
+Jon Doe,The Queen,0000-0000-0000-0002,"A very, very nice event"," at the royal palace, Qeensland",,,the second day of the king’s second month,today,Queensland
+Elizabeth Tailor,Robert Moore,0000-0000-0000-0003,An event with a really long and boring name,,321312BCA,https://docs.python.org/3/library/csv.html#csv.DictReader,today,the day after tomorrow,Burnton
