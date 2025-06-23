@@ -53,7 +53,7 @@
       #if (id_link.len() > 0) [
         #move(
           dx: -1.5cm, dy: 1.5cm,
-          qr-code(unique_id, width: 5cm)
+          qr-code(id_link, width: 5cm)
         )
       ] else [
         #v(3cm)
@@ -102,7 +102,7 @@
 #place(
   top+right,
   dx: 2cm, dy: -2cm,
-  image("resources/Logo_OSC_Torino.png", width: 50%)
+  image("resources/Logo_OSC.png", width: 50%)
 )
 
 #certificate(
